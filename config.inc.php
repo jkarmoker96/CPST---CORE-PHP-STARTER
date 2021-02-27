@@ -20,7 +20,7 @@ namespace {
             "SERVER_NAME" => "localhost",
             "SERVER_USER_NAME" => "root",
             "SERVER_PASSWORD" => "",
-            "DATABASE_NAME" => "greenlife"
+            "DATABASE_NAME" => "test"
         );
     } else {
         error_reporting(0);
